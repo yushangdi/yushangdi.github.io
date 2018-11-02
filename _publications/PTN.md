@@ -11,6 +11,6 @@ We propose the probabilistic temporal network that we can encode this uncertaint
 
 This is a course project for [*CS6850 The Structure of Information Networks*](http://www.cs.cornell.edu/courses/cs6850/2018sp/)
 
-[Download poster here](./files/PTN.pdf)
+[Download paper here](./files/PTN.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
