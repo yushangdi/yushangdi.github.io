@@ -1,0 +1,4 @@
+        <!-- {% elsif post.collection == 'publications' %} -->
+          <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
+
+archive-single.html line 43
