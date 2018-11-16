@@ -3,12 +3,12 @@ main:
   - title: "About Me"
     url: /
 
-  - title: "Papers/Works"
+  - title: "Research"
     url: /publications/
   #
   # - title: "Talks"
   #   url: /talks/
-  # 
+  #
 
   # - title: "Teaching"
   #   url: /teaching/
