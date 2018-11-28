@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Shangdi Yu. I’m a senior undergraduate student at Cornell University, pursuing a double major in Computer Science and Operations Research.
 
-My interest lies in Networks. As an undergrad researcher, I am currently working on studying the structures and tagging behaviors of online forum communities like StackExchange.com with Professor Austin Benson. I’m also working on modeling Spotify's music streaming trend as a self-exciting point process with Professor Jamol Pender.
+My interest lies in data mining and network science. As an undergrad researcher, I am currently working on studying the structures and tagging behaviors of online forum communities like StackExchange.com with Professor Austin Benson. I’m also working on modeling the volume of Spotify's music streams with the Cornell Operations Research Applied Learning (CORAL) team under the supervision of Professor Jamol Pender.
 
 I have worked on analyzing the Citibike bike-sharing system with Professor David Shmoys.
 
