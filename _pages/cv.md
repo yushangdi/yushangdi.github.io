@@ -15,7 +15,7 @@ Education
 * Computer Science
 * Operations Research
 
-[CV](./files/cv.pdf)
+<!-- [CV](./files/cv.pdf) -->
 
 <!-- Research Experience
 ======
@@ -27,12 +27,10 @@ Education
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
 
-Work Experience
-======
 
-Skills
+<!--  Skills
 ======
 * Skill 1
 * Skill 2
@@ -47,18 +45,24 @@ Research
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+
+Work Experience
+======
+  * Summer 2018: Technology Intern @ New York Times
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
 
-<!-- Teaching
+
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+<!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
