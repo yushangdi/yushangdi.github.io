@@ -4,6 +4,8 @@ collection: publications
 permalink: /publication/citibike_poster
 excerpt: 'Constructing a GRASP Algorithm to optimally reallocate bikes.'
 paperurl: '../files/Citi_Bike_Poster.pdf'
+prof: "David Shmoys"
+profurl: "https://people.orie.cornell.edu/shmoys/"
 ---
 Constructing a GRASP Algorithm to optimally reallocate bikes.
 

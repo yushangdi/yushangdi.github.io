@@ -4,6 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+<!-- Click the titles for more details! -->
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
