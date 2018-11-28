@@ -14,8 +14,8 @@ My interest lies in data mining and network science. As an undergrad researcher,
 
 I have worked on analyzing the Citibike bike-sharing system with Professor David Shmoys.
 
-This semester I am a TA for CS 4780: Machine Learning for Intelligent Systems.
-For the past three semesters I was a TA for CS 1110: Introduction to Computing Using Python and CS 4852: Networks II: Market Design.
+This semester I am a TA for [CS 4780](http://www.cs.cornell.edu/courses/cs4780/2018sp/): Machine Learning for Intelligent Systems.
+For the past three semesters I was a TA for [CS 1110](https://www.cs.cornell.edu/courses/cs1110/2017fa/): Introduction to Computing Using Python and [CS 4852](https://courses.cit.cornell.edu/info4220/): Networks II: Market Design. Next semester, I will TA [CS 4820](http://www.cs.cornell.edu/courses/cs4820/2018fa/): Introduction to Analysis of Algorithms.
 
 <!-- Head to the Blog section to check out posts I’ve written.
 Or go to About for a detailed profile.
