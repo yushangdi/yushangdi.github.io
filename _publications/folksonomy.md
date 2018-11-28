@@ -1,5 +1,5 @@
 ---
-title: "Scalable Gaussian Process Framework for Deep Neural Networks "
+title: "Stack-Exchange Community Networks Analysis"
 collection: publications
 permalink: /publication/stackexchange
 excerpt: 'In progress'
