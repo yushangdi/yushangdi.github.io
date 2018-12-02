@@ -2,12 +2,12 @@
 title: "Rebalancing Citibike Stations"
 collection: publications
 permalink: /publication/citibike_poster
-excerpt: 'Constructing a GRASP Algorithm to optimally reallocate bikes.'
+excerpt: 'Web & Mobile Tool for Optimally Reallocating Bikes.'
 paperurl: '../files/Citi_Bike_Poster.pdf'
 prof: "David Shmoys"
 profurl: "https://people.orie.cornell.edu/shmoys/"
 ---
-Constructing a GRASP Algorithm to optimally reallocate bikes.
+Web & iOS tool for optimally reallocating bikes.
 
 [Download poster here](../files/Citi_Bike_Poster.pdf)
 
