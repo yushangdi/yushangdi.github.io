@@ -1,5 +1,5 @@
 ---
-title: "Stack-Exchange Community Networks Analysis"
+title: "Modeling and Analysis of Tagging Networks in Stack Exchange Communities"
 collection: publications
 permalink: /publication/stackexchange
 excerpt: 'Submitted'
