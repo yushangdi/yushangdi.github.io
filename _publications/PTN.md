@@ -5,7 +5,7 @@ permalink: /publication/PTN
 excerpt: 'We propose the probabilistic temporal network that we can encode this uncertainty into the network by giving each edge a probability of being ”available” during each time slot. Interesting questions include routing and cascading in such network. Our idea of this probabilistic networks is inspired by the temporal network models, in which edges have some kind of time-relevant labeling. In this paper we focus on the routing problem in a simple probabilistic temporal network where each edge have uniform independent probability of being ”available” in each time slot.'
 
 paperurl: '../files/PTN.pdf'
-course: "CS 6820 The Structure of Information Networks"
+course: "CS 6850 The Structure of Information Networks"
 courseurl: "http://www.cs.cornell.edu/courses/cs6850/2018sp/"
 prof: "Jon Kleinberg"
 profurl: "http://www.cs.cornell.edu/home/kleinber/"
