@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](./files/cv.pdf)
+
 Education
 ======
-* B.S. in Cornell University, 2019 (expected)
-* Computer Science
-* Operations Research
+* Ph.D. at MIT
 
-<!-- [CV](./files/cv.pdf) -->
+* B.S. at Cornell University, 2019
+  - Computer Science & Operations Research, Summa Cum Laude
+
 
 <!-- Research Experience
 ======
@@ -30,14 +32,6 @@ Education
   * Supervisor: Professor Hub -->
 
 
-<!--  Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Research
 ======
@@ -56,12 +50,26 @@ Work Experience
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
 
+Skills
+======
+* Programming Languages: C++, Cilk Plus, Python, SQL, Java, R, Julia, OCaml, AMPL, C, HTML, Swift, Coq
+* Other Skills:  Git, AWS, Google Cloud, PyTorch, TensorFlow, Simio, LaTeX
+* Languages: English, Mandarin, Japanese
 
 Teaching Assistant
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+
+<!-- * Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3 -->
 
 <!-- Service and leadership
 ======

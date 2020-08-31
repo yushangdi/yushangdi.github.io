@@ -15,6 +15,9 @@ I graduated from Cornell University with a double major in Computer Science and 
 ### Research
 My current research focuses on parallel clustering frameworks. In the past, I have also been interested in data mining and network science.
 
+### Intern
+
+I interned at the New York Times in summer 2018!
 
 ### Teaching
 
@@ -30,9 +33,6 @@ I was a teaching assistant for the following courses at Cornell:
 
 [ORIE 5751/CS 5726: Learning and Decision Making](http://www.nathankallus.com/5751S18/)
 
-### Intern
-
-I interned at the New York Times in summer 2018!
 
 
 <!-- Head to the Blog section to check out posts I’ve written.
