@@ -8,25 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-My name is Shangdi Yu. I’m a senior undergraduate student at Cornell University, pursuing a double major in Computer Science and Operations Research.
+I am a PhD student at MIT in the computer science (EECS) department, with an interest in parallel algorithms. My advisor is Prof. Julian Shun.
+
+I graduated from Cornell University with a double major in Computer Science and Operations Research. I worked on studying the structures and tagging behaviors of online forum communities like StackExchange.com with Professor Austin Benson, and on modeling the volume of Spotify's music streams with the Cornell Operations Research Applied Learning (CORAL) team under the supervision of Professor Jamol Pender. I have also worked on analyzing the Citibike bike-sharing system with Professor David Shmoys.
 
 ### Research
-
-My interest lies in data mining and network science. As an undergrad researcher, I am currently working on studying the structures and tagging behaviors of online forum communities like StackExchange.com with Professor Austin Benson. I’m also working on modeling the volume of Spotify's music streams with the Cornell Operations Research Applied Learning (CORAL) team under the supervision of Professor Jamol Pender.
-
-I have worked on analyzing the Citibike bike-sharing system with Professor David Shmoys.
+My current research focuses on parallel clustering frameworks. In the past, I have also been interested in data mining and network science.
 
 
 ### Teaching
 
-This semester I am a TA for [CS 4780: Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018sp/).
+I was a teaching assistant for the following courses at Cornell:
 
- I was a TA for [CS 1110: Introduction to Computing Using Python](https://www.cs.cornell.edu/courses/cs1110/2017fa/) and [CS 4852: Networks II: Market Design](https://courses.cit.cornell.edu/info4220/).
- Next semester, I will TA [CS 4820: Introduction to Analysis of Algorithms](http://www.cs.cornell.edu/courses/cs4820/2018fa/) and be a grader for [ORIE 5751/CS 5726: Learning and Decision Making](http://www.nathankallus.com/5751S18/).
+[CS 4780: Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018sp/)
+
+[CS 1110: Introduction to Computing Using Python](https://www.cs.cornell.edu/courses/cs1110/2017fa/) 
+
+[CS 4852: Networks II: Market Design](https://courses.cit.cornell.edu/info4220/)
+
+[CS 4820: Introduction to Analysis of Algorithms](http://www.cs.cornell.edu/courses/cs4820/2018fa/) 
+
+[ORIE 5751/CS 5726: Learning and Decision Making](http://www.nathankallus.com/5751S18/)
 
 ### Intern
 
-I interned at the New York Times last summer!
+I interned at the New York Times in summer 2018!
 
 
 <!-- Head to the Blog section to check out posts I’ve written.

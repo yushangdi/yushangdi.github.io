@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shangdi Yu"
 title_separator          : "-"
 name                     : &name "Shangdi Yu"
-description              : &description "Undergraduate at Cornell University"
+description              : &description "Ph.D. at MIT"
 url                      : https://yushangdi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yushangdi/yushangdi.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Shangdi Yu"
   avatar           : "profile.jpg"
-  bio              : "CS & ORIE @ Cornell May'19."
-  location         : "Ithaca | NY"
+  bio              : "EECS @ MIT"
+  location         : "Cambridge | MA"
   employer         :
   googlescholar    :
-  email            : sy543 at cornell dot edu
+  email            : shangdiy at mit dot edu
   uri              :
   bitbucket        :
   codepen          :
